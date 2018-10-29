@@ -1,0 +1,83 @@
+
+img {
+    margin: 1em;
+    padding: 1em; 
+}
+
+/* START EMBED RESPONSIVELY STYLES */
+
+.embed-container {
+    position: relative; 
+    padding-bottom: 56.25%; 
+    height: 0; 
+    overflow: hidden; 
+    max-width: 100%; 
+} 
+.embed-container iframe, .embed-container object, .embed-container embed { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+}
+
+/* END EMBED RESPONSIVELY STYLES */
+
+/* START DESKTOP - RESPONSIVE RULES */
+
+@media all and (min-width:1000px){
+    
+    div.wrapper {
+        width:80%;
+        margin:auto;
+    }
+    img.desktop {
+        width: 50%;
+        float: right;
+    }
+    img.tablet, img.phone {
+        display: none;
+    }
+    
+}
+
+/* END DESKTOP - RESPONSIVE RULES */
+
+/* START TABLET - RESPONSIVE RULES */
+
+@media all and (min-width:501px) and (max-width:999px) {
+    
+    div.wrapper {
+        width:90%;
+        margin:auto;
+    }
+    img.tablet {
+        width: 50%;
+        float: left;
+    }
+    img.desktop, img.phone {
+        display: none;
+    }
+    
+}
+
+/* END TABLET - RESPONSIVE RULES */
+
+/* START PHONE - RESPONSIVE RULES */
+
+@media all and (max-width:500px) {
+    
+    div.wrapper {
+        width:100%;
+        margin:auto;
+    }
+    img.phone {
+        width: 100%;
+    }
+    img.desktop, img.tablet {
+        display: none;
+    }
+    
+}
+
+/* END PHONE - RESPONSIVE RULES */

@@ -1,0 +1,22 @@
+/* stles for tables */
+
+table{
+    border: 1px solid #000;
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+}
+tr{
+    vertical-align: top;
+}
+tr:nth-child(even), th{
+    background-color: #000;
+    color: #0f0;
+}
+td, th{
+    border: 1px dotted #f00;
+    padding: 2em;
+}
+.col1{
+    width: 10%;
+}
