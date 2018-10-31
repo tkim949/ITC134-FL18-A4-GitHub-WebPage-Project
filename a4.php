@@ -408,6 +408,9 @@ if(isset($_POST['Name']))
         ';
 }
 ?>
+                </div>
+              </div>
+            </div>
       </section>
       <!-- Page Footer-->
       <footer class="section novi-background bg-cover bg-gray-dark">
