@@ -340,36 +340,55 @@
           </div>
           <div class="row justify-content-md-center justify-content-xl-between row-55 text-xl-left">
             <div>
-              <form class="rd-mailform text-left" data-form-output="form-output-global" data-form-type="forms" method="post" action="bat/rd-mailform.php">
+                
+<?php
+if(isset($_POST['Name']))
+{//data is submitted show it
+    //echo $_POST['Name'];
+    $to      = 'michael.rodgers312@gmail.com';
+    $subject = 'Clean Contact Page';
+    //$message = 'hello from ' . $_POST['Name'];
+    $message = process_post();
+    $replyTo = 'michael.rodgers312@gmail.com';
+    $headers = 'From: noreply@michaelrodgers.azurewebsites.net' . PHP_EOL .
+    'Reply-To: ' . $replyTo . PHP_EOL .
+    'X-Mailer: PHP/' . phpversion();
+    mail($to, $subject, $message, $headers);
+    echo '<p>Thanks for contacting us</p>
+        <p><a href="">BACK</a></p>';
+}else{//show a form
+    echo '                
+                
+              <form class="rd-mailform text-left" data-form-output="form-output-global" data-form-type="forms" method="post">
                 <div class="row justify-content-sm-center row-30">
                   <div class="col-md-6">
                     <div class="form-wrap form-wrap-validation">
-                      <label class="form-label" for="forms-name">First name</label>
-                      <input class="form-input" id="forms-name" type="text" name="name" data-constraints="@Required">
+                      <label class="form-label" for="forms-name"></label>
+                      <input type="text" class="form-control" placeholder="FirstName" name="FirstName" id="firstname" required data-validation-required-message="Please enter your name.">
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="form-wrap form-wrap-validation">
-                      <label class="form-label" for="forms-last-name">Last name</label>
-                      <input class="form-input" id="forms-last-name" type="text" name="last-name" data-constraints="@Required">
+                      <label class="form-label" for="forms-last-name"></label>
+                      <input type="text" class="form-control" placeholder="LastName" name="LastName" id="lastname" required data-validation-required-message="Please enter your name.">
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="form-wrap form-wrap-validation">
-                      <label class="form-label" for="forms-email">E-mail</label>
-                      <input class="form-input" id="forms-email" type="email" name="email" data-constraints="@Email @Required">
+                      <label class="form-label" for="forms-email"></label>
+                      <input type="email" class="form-control" placeholder="Email Address" name="Email" id="email" required data-validation-required-message="Please enter your email address.">
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="form-wrap form-wrap-validation">
-                      <label class="form-label" for="forms-phone">Phone</label>
-                      <input class="form-input" id="forms-phone" type="text" name="phone" data-constraints="@Numeric @Required">
+                      <label class="form-label" for="forms-phone"></label>
+                      <input class="form-control" placeholder="Phone" id="forms-phone" type="text" name="phone" data-constraints="@Numeric @Required">
                     </div>
                   </div>
                   <div class="col-md-12">
                     <div class="form-wrap form-wrap-validation">
-                      <label class="form-label" for="forms-message">Message</label>
-                      <textarea class="form-input" id="forms-message" name="message" data-constraints="@Required"></textarea>
+                      <label class="form-label" for="forms-message"></label>
+                      <textarea rows="5" class="form-control" placeholder="Message" name="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
                     </div>
                   </div>
                   <div class="col-md-6">
@@ -386,6 +405,9 @@
             </div>
           </div>
         </div>
+        ';
+}
+?>
       </section>
       <!-- Page Footer-->
       <footer class="section novi-background bg-cover bg-gray-dark">
