@@ -169,7 +169,7 @@
               <h2>Scrum Values</h2>
               <p>By Taekyoung Kim</p>
               <div class="divider-light"></div>
-            
+
                 <p>The Scrum made an update to the SCRUM Guide in 2016, so it has had a new section, SCRUM Values.</p>
                 <img src="_Scrum-Values.png" alt="https://openclassrooms.com" width="40%">
                 <h3>Courage</h3>
@@ -179,13 +179,13 @@
                 <h3>Commitment</h3>
                 <p>The Scrum team has a goal to make a project successful. Each members of the team then commits to collaborate, be professional, help each other, and do the best they can to achieve the goal.</p>
                 <h3>Respect</h3>
-                <p>There could be some disagreement or conflict when we are working in a team. We could have to point out another member&#8217s fault or even criticize him&#47;her. However, we should do it in a respectful way and we should take others&#8217 remark about our work well with a professional attitude.</p>
+                <p>There could be some disagreement or conflict when we are working in a team. We could have to point out another member's fault or even criticize him or her. However, we should do it in a respectful way and we should take others'remark about our work well with a professional attitude.</p>
                 <h3>Openness</h3>
                 <p>Scrum requires transparency and openness. We should be open about our work as a team member, so it is needed to ask for help when we face challenges. Also, we are also to be open for people and ready to collaborate and work together.</p>
 
             </div>
           </div>
-          <div class="row row-30 isotope" data-lightgallery="group">    
+          <div class="row row-30 isotope" data-lightgallery="group">
           </div>
         </div>
       </section>
@@ -204,13 +204,13 @@
               <h2>Scrum Introduction</h2>
               <p>By Eunice J Lee</p>
               <div class="divider-light"></div>
-                
+
                 <h3>What is Scrum?</h3>
-                <p>Scrum is an Agile framework for effective team collaboration on complex products while maintaining a high quality. It helps to improve the product, the team, and the working environment. The framework consists of Scrum Teams and their roles, events, artifacts, and rules.</p> 
+                <p>Scrum is an Agile framework for effective team collaboration on complex products while maintaining a high quality. It helps to improve the product, the team, and the working environment. The framework consists of Scrum Teams and their roles, events, artifacts, and rules.</p>
 
                 <h3>Scrum Team Roles</h3>
                 <h4>The Product Owner</h4>
-                <p>The sole person responsible for maximizing the value of the product from the work of the Development Team. Also, the Product Owner is responsible for managing the Product Backlog. The entire organization must respect the Product Owner’s decision for the owner to succeed.</p> 
+                <p>The sole person responsible for maximizing the value of the product from the work of the Development Team. Also, the Product Owner is responsible for managing the Product Backlog. The entire organization must respect the Product Owner’s decision for the owner to succeed.</p>
                 <h4>The Development Team</h4>
                 <p>The team consists of 5-7 members who have different skill sets. They deliver a potentially releasable product at the end of each sprint. Everyone in the team helps to ensure a successful sprint completion.</p>
                 <h4>The Scrum Master</h4>
@@ -220,13 +220,13 @@
                 <h4>Product Backlog</h4>
                 <p>An ordered list of everything that is needed in the product. It constantly changes due to market conditions, business requirements, or technology.</p>
                 <h4>Sprint Backlog</h4>
-                <p>Selected set of the Product Backlog for the Sprint plus a plan for delivering the product Increment and realizing the Sprint Goal. It makes visible all the work that the Development Team identifies as necessary to meet the Sprint Goal. They team modifies and the Backlog emerges throughout the Sprint.</p> 
+                <p>Selected set of the Product Backlog for the Sprint plus a plan for delivering the product Increment and realizing the Sprint Goal. It makes visible all the work that the Development Team identifies as necessary to meet the Sprint Goal. They team modifies and the Backlog emerges throughout the Sprint.</p>
                 <h4>Increment</h4>
                 <p>The sum of all the Product Backlog completed during a Sprint and the value of the increments of all previous Sprints. The new increment must be “Done” or usable at the end of a Sprint.</p>
 
             </div>
           </div>
-          <div class="row row-30 isotope" data-lightgallery="group">    
+          <div class="row row-30 isotope" data-lightgallery="group">
           </div>
         </div>
       </section>
@@ -245,12 +245,12 @@
               <h2>Scrum Events</h2>
               <p>By Michael Rodgers</p>
               <div class="divider-light"></div>
-            
-                <p>Scrum has five events. Every event has a maximum duration. These events are designed to enable critical transparency and inspection.</p> 
+
+                <p>Scrum has five events. Every event has a maximum duration. These events are designed to enable critical transparency and inspection.</p>
                 <h3>The Sprint</h3>
                 <p>This is the work period to produce an iteration of the workable product, which is time boxed to 30 calendar days or less. Instead of working towards distant deadlines, the team constantly delivers function products.  The sprint is the container event for the other four scrum events, which all happen within the sprint.</p>
-                <h3>Sprint Planning</h3> 
-                <p>The sprint begins when the scrum team defines what the development team works on and how they will execute the plan. Teams gather their work into a set of desired product features on the backlog and divide the backlog work into chunks called stories.  They estimate the effort to complete those stories, and prioritize the most important elements, then plan work into short time boxes.</p> 
+                <h3>Sprint Planning</h3>
+                <p>The sprint begins when the scrum team defines what the development team works on and how they will execute the plan. Teams gather their work into a set of desired product features on the backlog and divide the backlog work into chunks called stories.  They estimate the effort to complete those stories, and prioritize the most important elements, then plan work into short time boxes.</p>
                 <h3>Daily Scrum/Standup</h3>
                 <p>The development team meets every day to inspect their work and adapt it to be more efficient. These meetings are meant to be quick, and cover four:</p>
                 <ul>
@@ -259,15 +259,15 @@
 	                <li>Are there any impediments? Is everything going to plan and will expectations be met?</li>
 	                <li>Who is responsible for what tasks/roles?</li>
                 </ul>
-                <h3>Sprint Review</h3> 
-                <p>The scrum team reviews their work and progress that occurred during the sprint to reflect and discuss any changes that need to be made. This event includes external stakeholders and is the time where future work is planned.  These regular meetings help keep the whole team unified and the shorter deadlines enable more opportunities for feedback and response during the process.</p>  
-                <h3>Sprint Retrospective</h3> 
+                <h3>Sprint Review</h3>
+                <p>The scrum team reviews their work and progress that occurred during the sprint to reflect and discuss any changes that need to be made. This event includes external stakeholders and is the time where future work is planned.  These regular meetings help keep the whole team unified and the shorter deadlines enable more opportunities for feedback and response during the process.</p>
+                <h3>Sprint Retrospective</h3>
                 <p>The scrum team gets together to discuss how they can be more efficient. This is the event to inspect and adapt all aspects of the scrum team's process and approach. Each team sets their own definition of done, or standards set of acceptance criteria across stories. Code is only released if the product owner agrees that a story meets those criteria at the end of a sprint. Any tasks that weren't completed either get rolled to the next sprint or re-prioritized.</p>
                 <p>A sprint can only be canceled by the product owner if the sprint goal is no longer valid. This should only be because of outside factors such as budget cuts, mergers, or changing business strategies.  Canceling a sprint because the development team is behind schedule is not a valid reason.</p>
 
             </div>
           </div>
-          <div class="row row-30 isotope" data-lightgallery="group">    
+          <div class="row row-30 isotope" data-lightgallery="group">
           </div>
         </div>
       </section>
@@ -307,7 +307,7 @@
                     <p class="quote-classic-subcite">Uzility</p>
                   </div>
             </div>
-            
+
             <div class="col-md-6 col-lg-4">
               <iframe width="448" height="252" src="https://www.youtube.com/embed/TRcReyRYIMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="unit-body">
@@ -315,7 +315,7 @@
                     <p class="quote-classic-subcite">Scrum Alliance</p>
                   </div>
             </div>
-              
+
             <div class="col-md-6 col-lg-4">
               <iframe width="448" height="252" src="https://www.youtube.com/embed/gy1c4_YixCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="unit-body">
@@ -576,7 +576,7 @@
               <h2>Scrum Values</h2>
               <p>By Taekyoung Kim</p>
               <div class="divider-light"></div>
-            
+
                 <p>The Scrum made an update to the SCRUM Guide in 2016, so it has had a new section, SCRUM Values.</p>
                 <img src="_Scrum-Values.png" alt="https://openclassrooms.com" width="40%">
                 <h3>Courage</h3>
@@ -586,13 +586,13 @@
                 <h3>Commitment</h3>
                 <p>The Scrum team has a goal to make a project successful. Each members of the team then commits to collaborate, be professional, help each other, and do the best they can to achieve the goal.</p>
                 <h3>Respect</h3>
-                <p>There could be some disagreement or conflict when we are working in a team. We could have to point out another member&#8217s fault or even criticize him&#47;her. However, we should do it in a respectful way and we should take others&#8217 remark about our work well with a professional attitude.</p>
+                <p>There could be some disagreement or conflict when we are working in a team. We could have to point out another member's fault or even criticize him or her. However, we should do it in a respectful way and we should take others' remark about our work well with a professional attitude.</p>
                 <h3>Openness</h3>
                 <p>Scrum requires transparency and openness. We should be open about our work as a team member, so it is needed to ask for help when we face challenges. Also, we are also to be open for people and ready to collaborate and work together.</p>
 
             </div>
           </div>
-          <div class="row row-30 isotope" data-lightgallery="group">    
+          <div class="row row-30 isotope" data-lightgallery="group">
           </div>
         </div>
       </section>
@@ -611,13 +611,13 @@
               <h2>Scrum Introduction</h2>
               <p>By Eunice J Lee</p>
               <div class="divider-light"></div>
-                
+
                 <h3>What is Scrum?</h3>
-                <p>Scrum is an Agile framework for effective team collaboration on complex products while maintaining a high quality. It helps to improve the product, the team, and the working environment. The framework consists of Scrum Teams and their roles, events, artifacts, and rules.</p> 
+                <p>Scrum is an Agile framework for effective team collaboration on complex products while maintaining a high quality. It helps to improve the product, the team, and the working environment. The framework consists of Scrum Teams and their roles, events, artifacts, and rules.</p>
 
                 <h3>Scrum Team Roles</h3>
                 <h4>The Product Owner</h4>
-                <p>The sole person responsible for maximizing the value of the product from the work of the Development Team. Also, the Product Owner is responsible for managing the Product Backlog. The entire organization must respect the Product Owner’s decision for the owner to succeed.</p> 
+                <p>The sole person responsible for maximizing the value of the product from the work of the Development Team. Also, the Product Owner is responsible for managing the Product Backlog. The entire organization must respect the Product Owner’s decision for the owner to succeed.</p>
                 <h4>The Development Team</h4>
                 <p>The team consists of 5-7 members who have different skill sets. They deliver a potentially releasable product at the end of each sprint. Everyone in the team helps to ensure a successful sprint completion.</p>
                 <h4>The Scrum Master</h4>
@@ -627,13 +627,13 @@
                 <h4>Product Backlog</h4>
                 <p>An ordered list of everything that is needed in the product. It constantly changes due to market conditions, business requirements, or technology.</p>
                 <h4>Sprint Backlog</h4>
-                <p>Selected set of the Product Backlog for the Sprint plus a plan for delivering the product Increment and realizing the Sprint Goal. It makes visible all the work that the Development Team identifies as necessary to meet the Sprint Goal. They team modifies and the Backlog emerges throughout the Sprint.</p> 
+                <p>Selected set of the Product Backlog for the Sprint plus a plan for delivering the product Increment and realizing the Sprint Goal. It makes visible all the work that the Development Team identifies as necessary to meet the Sprint Goal. They team modifies and the Backlog emerges throughout the Sprint.</p>
                 <h4>Increment</h4>
                 <p>The sum of all the Product Backlog completed during a Sprint and the value of the increments of all previous Sprints. The new increment must be “Done” or usable at the end of a Sprint.</p>
 
             </div>
           </div>
-          <div class="row row-30 isotope" data-lightgallery="group">    
+          <div class="row row-30 isotope" data-lightgallery="group">
           </div>
         </div>
       </section>
@@ -652,12 +652,12 @@
               <h2>Scrum Events</h2>
               <p>By Michael Rodgers</p>
               <div class="divider-light"></div>
-            
-                <p>Scrum has five events. Every event has a maximum duration. These events are designed to enable critical transparency and inspection.</p> 
+
+                <p>Scrum has five events. Every event has a maximum duration. These events are designed to enable critical transparency and inspection.</p>
                 <h3>The Sprint</h3>
                 <p>This is the work period to produce an iteration of the workable product, which is time boxed to 30 calendar days or less. Instead of working towards distant deadlines, the team constantly delivers function products.  The sprint is the container event for the other four scrum events, which all happen within the sprint.</p>
-                <h3>Sprint Planning</h3> 
-                <p>The sprint begins when the scrum team defines what the development team works on and how they will execute the plan. Teams gather their work into a set of desired product features on the backlog and divide the backlog work into chunks called stories.  They estimate the effort to complete those stories, and prioritize the most important elements, then plan work into short time boxes.</p> 
+                <h3>Sprint Planning</h3>
+                <p>The sprint begins when the scrum team defines what the development team works on and how they will execute the plan. Teams gather their work into a set of desired product features on the backlog and divide the backlog work into chunks called stories.  They estimate the effort to complete those stories, and prioritize the most important elements, then plan work into short time boxes.</p>
                 <h3>Daily Scrum/Standup</h3>
                 <p>The development team meets every day to inspect their work and adapt it to be more efficient. These meetings are meant to be quick, and cover four:</p>
                 <ul>
@@ -666,15 +666,15 @@
 	                <li>Are there any impediments? Is everything going to plan and will expectations be met?</li>
 	                <li>Who is responsible for what tasks/roles?</li>
                 </ul>
-                <h3>Sprint Review</h3> 
-                <p>The scrum team reviews their work and progress that occurred during the sprint to reflect and discuss any changes that need to be made. This event includes external stakeholders and is the time where future work is planned.  These regular meetings help keep the whole team unified and the shorter deadlines enable more opportunities for feedback and response during the process.</p>  
-                <h3>Sprint Retrospective</h3> 
+                <h3>Sprint Review</h3>
+                <p>The scrum team reviews their work and progress that occurred during the sprint to reflect and discuss any changes that need to be made. This event includes external stakeholders and is the time where future work is planned.  These regular meetings help keep the whole team unified and the shorter deadlines enable more opportunities for feedback and response during the process.</p>
+                <h3>Sprint Retrospective</h3>
                 <p>The scrum team gets together to discuss how they can be more efficient. This is the event to inspect and adapt all aspects of the scrum team's process and approach. Each team sets their own definition of done, or standards set of acceptance criteria across stories. Code is only released if the product owner agrees that a story meets those criteria at the end of a sprint. Any tasks that weren't completed either get rolled to the next sprint or re-prioritized.</p>
                 <p>A sprint can only be canceled by the product owner if the sprint goal is no longer valid. This should only be because of outside factors such as budget cuts, mergers, or changing business strategies.  Canceling a sprint because the development team is behind schedule is not a valid reason.</p>
 
             </div>
           </div>
-          <div class="row row-30 isotope" data-lightgallery="group">    
+          <div class="row row-30 isotope" data-lightgallery="group">
           </div>
         </div>
       </section>
@@ -714,7 +714,7 @@
                     <p class="quote-classic-subcite">Uzility</p>
                   </div>
             </div>
-            
+
             <div class="col-md-6 col-lg-4">
               <iframe width="448" height="252" src="https://www.youtube.com/embed/TRcReyRYIMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="unit-body">
@@ -722,7 +722,7 @@
                     <p class="quote-classic-subcite">Scrum Alliance</p>
                   </div>
             </div>
-              
+
             <div class="col-md-6 col-lg-4">
               <iframe width="448" height="252" src="https://www.youtube.com/embed/gy1c4_YixCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="unit-body">
@@ -795,7 +795,7 @@
           </div>
           <div class="row justify-content-md-center justify-content-xl-between row-55 text-xl-left">
             <div>
-                
+
 <?php
 if(isset($_POST['Name']))
 {//data is submitted show it
@@ -812,8 +812,8 @@ if(isset($_POST['Name']))
     echo '<p>Thanks for contacting us</p>
         <p><a href="">BACK</a></p>';
 }else{//show a form
-    echo '                
-                
+    echo '
+
               <form class="rd-mailform text-left" data-form-output="form-output-global" data-form-type="forms" method="post">
                 <div class="row justify-content-sm-center row-30">
                   <div class="col-md-6">
