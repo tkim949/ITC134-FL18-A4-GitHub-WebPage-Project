@@ -171,7 +171,7 @@
               <div class="divider-light"></div>
 
                 <p>The Scrum made an update to the SCRUM Guide in 2016, so it has had a new section, SCRUM Values.</p>
-                <img src="_Scrum-Values.png" alt="https://openclassrooms.com" width="40%">
+                <img src="images/_Scrum-Values.png" alt="https://openclassrooms.com" width="40%">
                 <h3>Courage</h3>
                 <p>While working together as a team on a project, we would find out many mistakes including our own mistake. We know the fact that nobody is perfect and everybody can make mistakes and do something wrong, but it is hard to admit that we are the one who made that mistake or who was wrong. This needs Courage.</p>
                 <h3>Focus</h3>
@@ -578,7 +578,7 @@
               <div class="divider-light"></div>
 
                 <p>The Scrum made an update to the SCRUM Guide in 2016, so it has had a new section, SCRUM Values.</p>
-                <img src="_Scrum-Values.png" alt="https://openclassrooms.com" width="40%">
+                <img src="images/_Scrum-Values.png" alt="https://openclassrooms.com" width="40%">
                 <h3>Courage</h3>
                 <p>While working together as a team on a project, we would find out many mistakes including our own mistake. We know the fact that nobody is perfect and everybody can make mistakes and do something wrong, but it is hard to admit that we are the one who made that mistake or who was wrong. This needs Courage.</p>
                 <h3>Focus</h3>
